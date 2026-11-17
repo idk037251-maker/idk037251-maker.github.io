@@ -1,0 +1,21 @@
+{
+  "name": "pinterest-search",
+  "version": "1.0.0",
+  "description": "실시간 핀터레스트 검색엔진 (Real-time Pinterest Search Engine)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "pinterest",
+    "search-engine",
+    "realtime"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
